@@ -1,4 +1,7 @@
 # google translate
+
+新人一枚 参考学习:https://github.com/yixianle/google-translate
+
 项目采用koa2+react <br>
 由于google translate api是收费的，翻译模块用的是我另外一个项目
 [translate-api](https://github.com/yixianle/translate-api) <br>
